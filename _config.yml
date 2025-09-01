@@ -1,11 +1,7 @@
 title: "Md Belal Islam"
 description: "DevOps Engineering Manager Portfolio"
-baseurl: "" # for GitHub Pages keep empty
-url: "https://Belalgit.github.io"
+theme: jekyll-theme-minimal
 
-theme: minima
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
+# Optional links for header/footer
+github_username: Belalgit
+linkedin_username: belal-islam-babu
