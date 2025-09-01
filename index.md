@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-# DevOps Engineering Manager
+# DevOps Engineer
 
 📍 Dhaka, Bangladesh  
 📧 [belaluiu15@gmail.com](mailto:belaluiu15@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/belal-islam-babu) | [GitHub](https://github.com/Belalgit)
