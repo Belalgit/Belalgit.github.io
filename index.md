@@ -95,6 +95,7 @@ Results-driven **DevOps Engineering Manager** with expertise in cloud infrastruc
 ### Infrastructure Automation with IaC
 - Automated AWS infra with Terraform.  
 - Reduced deployment time by 40%, improved efficiency by 25%.
+- 📊 [View Architecture Diagram](/assets/images/terraform.png)
 
 ---
 
