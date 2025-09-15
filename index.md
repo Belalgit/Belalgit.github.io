@@ -1,12 +1,7 @@
 ---
 layout: default
+title: "Home"
 ---
-
-<h1 style="margin-left:40px;">{{ site.title }}</h1>
-<img src="{{ site.logo }}" alt="Logo" width="150">
-<p>{{ site.description }}</p>
-
-[View My GitHub Profile](https://github.com/yourusername)
 
 # DevOps Engineer
 
