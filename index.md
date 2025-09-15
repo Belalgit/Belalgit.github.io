@@ -84,7 +84,7 @@ Results-driven **DevOps Engineering Manager** with expertise in cloud infrastruc
 ### OCI Cloud Architecture – [Saafir](https://www.saafir.co)
 - Architected resilient OCI infra with multi-domain availability.  
 - Enforced SOC 2 & ISO 27001 with IAM & monitoring.
-📊 [View Architecture Diagram (PDF)](/assets/images/OCI Infrastructure Architecture Diagram.pdf)
+- 📊 [View Architecture Diagram (PDF)](/assets/images/OCI Infrastructure Architecture Diagram.pdf)
 
 ### Data Warehouse Implementation
 - Designed AWS-based data warehouse for analytics.  
