@@ -51,7 +51,9 @@ Results-driven **DevOps Engineering Manager** with expertise in cloud infrastruc
 
 ## 📜 Certifications
 - [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/40603554-a9db-4252-8211-883d6122ae59/public_url)
-- AWS Certified DevOps Engineer – Professional  
+- [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/c4d54baf-ef12-40dd-97f8-47a73eb78420/public_url)
+- [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/f5c88560-bf34-4b4f-9a54-8e860163b344/public_url)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/ddae03b9-b6f7-4603-8e2b-fbaedd6b45e2/public_url)
 - 
 - Certified Kubernetes Administrator (CKA)  
 - OCI 2025: DevOps Pro, Multicloud Architect, Generative AI, Migration, Data Science, Observability  
