@@ -66,7 +66,7 @@ Results-driven **DevOps Engineering Manager** with expertise in cloud infrastruc
 - [Oracle Cloud Infrastructure 2025 Certified Observability Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F6693ECD26E6A1638A389890D47DA9F33D6D36D52DB94CBA143A8618BAED4A82)
 - [Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=08CD6D874222CF313BBAF1A63BB1044CB282AF37185683F50B1C8288EDBEF8AA)
 - [Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4D55CF40C94485A306DBC7886E3293EDD76526FE515763891EE8AE879543A6CC)
-- [Oracle Cloud Infrastructure 2025 Certified Architect Associate](https:)
+- [Microsoft Certified Azure Administrator Associate](https://learn.microsoft.com/en-us/users/mdbelalislam-1073/credentials/99bad7bab5a1611e?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - Microsoft Certified Azure Administrator Associate  
 - MikroTik MTCNA, MTCRE, MTCSE  
 
