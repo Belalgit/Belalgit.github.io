@@ -96,7 +96,7 @@ Results-driven **DevOps Engineering Manager** with expertise in cloud infrastruc
 ---
 
 ## 📚 Education
-**B.Sc. in Electrical & Electronic Engineering (EEE)** – United International University  
+**B.Sc. in Electrical & Electronic Engineering (EEE)** – [United International University](https://www.uiu.ac.bd)  
 **GPA: 3.9 / 4.0**
 
 ---
