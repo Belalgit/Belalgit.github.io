@@ -1,9 +1,50 @@
 title: "Md Belal Islam"
 logo: /assets/images/Belal_Photo.png
-#description: "DevOps Engineer Portfolio"
-#theme: jekyll-theme-minimal
-theme: jekyll-include-cache
+description: "DevOps Engineer Portfolio"
 
-# Optional links for header/footer
-github_username: Belalgit
-linkedin_username: belal-islam-babu
+# Minimal Mistakes remote theme
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Skin controls the color scheme
+minimal_mistakes_skin: "default" # options: air, contrast, dark, neon, sunrise
+
+plugins:
+  - jekyll-include-cache
+
+# Author profile (sidebar)
+author:
+  name: "Md Belal Islam"
+  avatar: "/assets/images/Belal_Photo.png"
+  bio: "DevOps Engineering Manager | Cloud | DevSecOps | Automation"
+  location: "Dhaka, Bangladesh"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:belaluiu15@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/belal-islam-babu"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Belalgit"
+    - label: "Resume"
+      icon: "fas fa-file-pdf"
+      url: "/assets/images/MdBelalIslamResume_updated.pdf"
+
+
+# Site navigation
+nav:
+  - title: "Home"
+    url: /
+  - title: "Experience"
+    url: /experience/
+  - title: "Skills"
+    url: /skills/
+  - title: "Certifications"
+    url: /certifications/
+  - title: "Projects"
+    url: /projects/
+  - title: "Education"
+    url: /education/
+  - title: "Blog"
+    url: /year-archive/
