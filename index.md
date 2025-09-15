@@ -80,6 +80,7 @@ Results-driven **DevOps Engineering Manager** with expertise in cloud infrastruc
 - Migrated apps & DBs to AWS & MongoDB with minimal downtime.  
 - Reduced costs by 15%, ensured **99.9% uptime**.  
 - Built secure CI/CD pipelines (40% faster).
+- 📊 [View Architecture Diagram (PNG)](/assets/images/AWS Infrastructure Architecture Diagram.png)
 
 ### OCI Cloud Architecture – [Saafir](https://www.saafir.co)
 - Architected resilient OCI infra with multi-domain availability.  
