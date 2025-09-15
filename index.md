@@ -41,9 +41,9 @@ Results-driven **DevOps Engineering Manager** with expertise in cloud infrastruc
 
 ## 🛠️ Skills
 - Cloud: AWS, OCI, Azure  
-- IaC: Terraform, Ansible, CloudFormation  
-- CI/CD: GitHub Actions, Jenkins, GitLab CI, CircleCI  
-- Containers & Orchestration: Docker, Kubernetes, Helm  
+- IaC: Terraform, CloudFormation  
+- CI/CD: GitHub Actions, Jenkins, GitLab CI, CircleCI, AWS CodePipeline  
+- Containers & Orchestration: Docker, Kubernetes  
 - Observability: Prometheus, Grafana, ELK  
 - Security: IAM, DevSecOps, SOC2, ISO 27001  
 
