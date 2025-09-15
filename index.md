@@ -76,7 +76,7 @@ Results-driven **DevOps Engineering Manager** with expertise in cloud infrastruc
 ---
 
 ## 🌟 Projects
-### Cloud Infrastructure Migration – [Jatri](https://www.jatri.co), [Saafir](https://www.saafir.co)
+### Cloud Infrastructure Migration – [Jatri](https://www.jatri.co)
 - Migrated apps & DBs to AWS & MongoDB with minimal downtime.  
 - Reduced costs by 15%, ensured **99.9% uptime**.  
 - Built secure CI/CD pipelines (40% faster).
