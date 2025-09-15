@@ -48,3 +48,11 @@ nav:
     url: /education/
   - title: "Blog"
     url: /year-archive/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
