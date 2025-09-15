@@ -66,9 +66,12 @@ Results-driven **DevOps Engineering Manager** with expertise in cloud infrastruc
 - [Oracle Cloud Infrastructure 2025 Certified Observability Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F6693ECD26E6A1638A389890D47DA9F33D6D36D52DB94CBA143A8618BAED4A82)
 - [Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=08CD6D874222CF313BBAF1A63BB1044CB282AF37185683F50B1C8288EDBEF8AA)
 - [Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4D55CF40C94485A306DBC7886E3293EDD76526FE515763891EE8AE879543A6CC)
-- [Microsoft Certified Azure Administrator Associate](https://learn.microsoft.com/en-us/users/mdbelalislam-1073/credentials/99bad7bab5a1611e?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-- Microsoft Certified Azure Administrator Associate  
-- MikroTik MTCNA, MTCRE, MTCSE  
+- [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/mdbelalislam-1073/credentials/99bad7bab5a1611e?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [Introduction to FinOps](https://verify.skilljar.com/c/n7yu3zbr83he)
+- [Certified AppSec Practitioner (CAP)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXTVi7xsQ5eYNWHPNF1yIQ7kHqAz3erUV7wVBgrjUg8nwoNt5jTUw6V6FeOOLmoWWa+9DqFKUDzenNpdkk6CFUpE=)
+- [MikroTik Certified Network Associate](https://mikrotik.com/training/certificates/c305835c67f209fa5f92)
+- [MikroTik Certified Routing Engineer](https://mikrotik.com/training/certificates/c308911caea9fbffed4f)
+- [MikroTik Certified Security Engineer](https://mikrotik.com/training/certificates/c312949cfd535e9ec9d4)
 
 ---
 
