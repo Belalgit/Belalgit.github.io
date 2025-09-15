@@ -1,9 +1,9 @@
 title: "Md Belal Islam"
 logo: /assets/images/Belal_Photo.png
-#description: "DevOps Engineer Portfolio"
-#theme: jekyll-theme-minimal
-theme: jekyll-include-cache
+description: "DevOps Engineer Portfolio"
+theme: jekyll-theme-minimal
+
 
 # Optional links for header/footer
-github_username: Belalgit
-linkedin_username: belal-islam-babu
+#github_username: Belalgit
+#linkedin_username: belal-islam-babu
