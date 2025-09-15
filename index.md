@@ -6,7 +6,7 @@ title: "Home"
 # DevOps Engineer
 
 📍 Dhaka, Bangladesh  
-📧 [belaluiu15@gmail.com](mailto:belaluiu15@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/belal-islam-babu) | 💻 [GitHub](https://github.com/Belalgit) | 
+📧 [belaluiu15@gmail.com](mailto:belaluiu15@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/belal-islam-babu) | 💻 [GitHub](https://github.com/Belalgit) | 📄 [Resume](/assets/images/MdBelalIslamResume_updated.pdf) 
 
 ---
 
