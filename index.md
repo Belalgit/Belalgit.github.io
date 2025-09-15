@@ -21,7 +21,7 @@ Results-driven **DevOps Engineering Manager** with expertise in cloud infrastruc
 - Achieved **99.9% uptime**.
 - Improved delivery speed by 25%.
 
-### Senior DevOps Engineer – Jatri (2024)
+### Senior DevOps Engineer – [Jatri](https://www.jatri.co) (2024)
 - Increased deployment frequency by 40%.
 - Oversaw 150+ production releases.
 - Reduced downtime by 25%.
