@@ -54,7 +54,11 @@ Results-driven **DevOps Engineering Manager** with expertise in cloud infrastruc
 - [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/c4d54baf-ef12-40dd-97f8-47a73eb78420/public_url)
 - [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/f5c88560-bf34-4b4f-9a54-8e860163b344/public_url)
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/ddae03b9-b6f7-4603-8e2b-fbaedd6b45e2/public_url)
-- 
+- [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/c36be3c2-ad29-472c-8373-8c6cb2053bd7/public_url)
+- [Certified Calico Operator - AWS Expert](https://www.credly.com/badges/0436a951-3d7f-49b9-ae01-e187d8eba81c/public_url)
+- [CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/6d5d8523-ee1f-46fa-8950-a5823b72c00e/public_url)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/ddae03b9-b6f7-4603-8e2b-fbaedd6b45e2/public_url)
+
 - Certified Kubernetes Administrator (CKA)  
 - OCI 2025: DevOps Pro, Multicloud Architect, Generative AI, Migration, Data Science, Observability  
 - Microsoft Certified Azure Administrator Associate  
