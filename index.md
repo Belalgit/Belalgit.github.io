@@ -90,6 +90,7 @@ Results-driven **DevOps Engineering Manager** with expertise in cloud infrastruc
 ### Data Warehouse Implementation
 - Designed AWS-based data warehouse for analytics.  
 - Improved query efficiency & reporting.
+- 📊 [View Architecture Diagram](/assets/images/DataLake Diagram updated.jpg)
 
 ### Infrastructure Automation with IaC
 - Automated AWS infra with Terraform.  
