@@ -35,7 +35,7 @@ Results-driven **DevOps Engineering Manager** with expertise in cloud infrastruc
 - Improved security compliance by 15%.
 - Reduced transaction errors by 15%.
 
-### Assistant Instructor – [UIU Cisco Networking Academy](https://cisco.uiu.ac.bd) (2018 – 2024)
+### Assistant Instructor – [CENTeR](https://cisco.uiu.ac.bd) (2018 – 2024)
 - Delivered CCNA, Security, and Linux training.
 - Coordinated 15+ workshops per semester.
 
