@@ -11,7 +11,7 @@ title: "Home"
 ---
 
 ## About Me
-Results-driven **DevOps Engineering Manager** with expertise in cloud infrastructure, CI/CD, DevSecOps, and automation. Proven record of improving uptime, reducing costs, and leading teams to deliver secure and scalable solutions.
+**Technology-driven CTO and FinTech leader** transforming business vision into secure, scalable, and resilient financial platforms through engineering excellence, cybersecurity, cloud innovation, regulatory compliance, and high-performing technology teams.
 
 ---
 
